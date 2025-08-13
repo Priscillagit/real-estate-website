@@ -78,6 +78,9 @@ Use MongoDB or PostgreSQL instead of JSON
 Deploy to the cloud (e.g. Render, Vercel, or Netlify)
 Add filters, pagination, and favorites
 
+📄 License
+This project is licensed under the MIT License.
+
 👩🏽‍💻 Author
 Priscilla Dankwa
 GitHub: Priscillagit
